@@ -1,0 +1,2 @@
+# SweetMaze
+Its a game
